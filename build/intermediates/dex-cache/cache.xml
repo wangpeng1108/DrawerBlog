@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.mikepenz\aboutlibraries\5.6.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="accc212b35cb9b341a07674410d9bf70023ef5cf">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-aboutlibraries-5.6.6_43c974efbc550c2ca6f9c1aed6467be089739c08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.11\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="98a135c7935e62ac041acc1fcb148973bde828d5">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-iconics-core-2.5.11_a63eb1201d875206ced56672775530e85598f0f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WP\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.7\cd78109020f9ec803ef4e652c17ee4615b03e20a\android-async-http-1.4.7.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="cd78109020f9ec803ef4e652c17ee4615b03e20a">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.7_679516c6a11289f2843c167d9b311ef4aa7553f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_4dd550008e959e3f751efb6e7d3297ad8442d234\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_e4f22e2b042b8289ee0e1506128ca866eebb37fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.mikepenz\google-material-typeface\2.2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="861dd8b4d38117b27f7e95c9fd555f69fe668138">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-google-material-typeface-2.2.0.1_0de38faf4c625d1fc292c1317ac0ea56f802c61c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_f07c3ad59a7a2209f956ab98782f290327a09122\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="1977cd983a3916b82b7a89d8f426fe2c1a301b9e">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5953d88eb2fb7732625d281ef8e406821fa2a1a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WP\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_42abaaeb047fec199951a6f72a76235515afb9fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_c5efe37e6cc14d57bf5172ad34d99fcc64e18be9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WP\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.4-beta2\6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92\leakcanary-watcher-1.4-beta2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\leakcanary-watcher-1.4-beta2_bfbc4e0b12677dbd560b20d4afc70a388a0685eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.mikepenz\materialize\0.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="25e8af11fff99ad02250f52f2436e25f60cc1bbe">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-materialize-0.5.1_7afbde4d7d6f8190213bc657ce1722904fb8ba3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_c24d356198cbd088f93bb209f6b7cc8e586fc398\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.mikepenz\crossfadedrawerlayout\0.3.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="3bd157e2f4f00577787bb38319fee50d7e5e31b8">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-crossfadedrawerlayout-0.3.4_c10c54d4efb1f0ff60d20078770ce363a7a1745b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="06827b2978da631726762763be769856dc476519">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ada439f2874588deac31ddd1fa18163a0f281ad5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_2cd550b903324fb12ba88ed409126c226f681985\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.mikepenz\itemanimators\0.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="855c5b5e3008983771197f24b4750b0e0adbde55">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-itemanimators-0.2.4_8ef74b3ac36885e423f41b94b6a7dfeb210f0142\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.4-beta2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="9c8472f8e10502af60d0f63ea11eed68bdf690c2">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.squareup.leakcanary-leakcanary-android-1.4-beta2_f4150f4e7c9f23846037c955ac0163b81d54741d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0461b894aa6239f83e5a93439f6ddbe8814bef17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WP\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_772615b4288a1349bdc90cbce11089d47da94c77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WP\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\2.0.2\fd65b84d12d6adc77ec0e4fcaca623fc391d8679\haha-2.0.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="fd65b84d12d6adc77ec0e4fcaca623fc391d8679">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\haha-2.0.2_6568ec0c1102b0456c52d2e97cec7abcc963c3c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.mikepenz\fontawesome-typeface\4.4.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="e8ad61c604470ee6933c21ae0aefcf9ee03c3911">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-fontawesome-typeface-4.4.0.1_f06f71f300857d8657d21cf88eabf68d67f77c59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_3486167abe67183015867064bf27ffc0dddf7c09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.mikepenz\crossfader\1.3.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="397961f0d21f536b145dbdaab56ad1e686159c38">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-crossfader-1.3.7_3672e3b0110f796e45b55f84a07e6f598ce15015\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.mikepenz\octicons-typeface\3.0.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a3332adcdc1cdd7ed9a2f6a90f322c0e0c89ab91">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-octicons-typeface-3.0.0.1_bef7b29b2bce3bc6492d7a5bc51ae30ecef2ca40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WP\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.4-beta2\449777cd466ac0a16f7e8d0dc508e70e2cdd13a9\leakcanary-analyzer-1.4-beta2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="449777cd466ac0a16f7e8d0dc508e70e2cdd13a9">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\leakcanary-analyzer-1.4-beta2_a40fca57fcbc32eb1a434826dcae12c916092d00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Workspaces\Android\DrawerBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_d2813024c50d4de2370fbaa70c1af424a883567b\classes.dex" />
+    </item>
+
+</items>
